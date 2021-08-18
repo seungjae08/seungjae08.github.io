@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5febd2a.chunk.css",
+    "main.js": "/static/js/main.b9afba93.chunk.js",
+    "main.js.map": "/static/js/main.b9afba93.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72a4c28f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72a4c28f.js.map",
+    "static/js/2.88c54d64.chunk.js": "/static/js/2.88c54d64.chunk.js",
+    "static/js/2.88c54d64.chunk.js.map": "/static/js/2.88c54d64.chunk.js.map",
+    "static/js/3.4193c6e2.chunk.js": "/static/js/3.4193c6e2.chunk.js",
+    "static/js/3.4193c6e2.chunk.js.map": "/static/js/3.4193c6e2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e5febd2a.chunk.css.map": "/static/css/main.e5febd2a.chunk.css.map",
+    "static/js/2.88c54d64.chunk.js.LICENSE.txt": "/static/js/2.88c54d64.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/NotoSansKR-Thin.30fa6d56.otf",
+    "static/media/background_1.9b6172a3.jpeg": "/static/media/background_1.9b6172a3.jpeg",
+    "static/media/changsung2.491eb71e.png": "/static/media/changsung2.491eb71e.png",
+    "static/media/chartjs.4b49b994.png": "/static/media/chartjs.4b49b994.png",
+    "static/media/dualtalk.05f88ecd.png": "/static/media/dualtalk.05f88ecd.png",
+    "static/media/my_picture.69ccd275.jpg": "/static/media/my_picture.69ccd275.jpg",
+    "static/media/opencv.2c643104.png": "/static/media/opencv.2c643104.png",
+    "static/media/styled-component.bc3e0b79.png": "/static/media/styled-component.bc3e0b79.png",
+    "static/media/videosynthesis.6cfa5ea4.png": "/static/media/videosynthesis.6cfa5ea4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72a4c28f.js",
+    "static/js/2.88c54d64.chunk.js",
+    "static/css/main.e5febd2a.chunk.css",
+    "static/js/main.b9afba93.chunk.js"
+  ]
+}
